@@ -143,6 +143,10 @@ footer {
         font-size: 75px;
     }
 
+    .card {
+        width: 300px;
+    }
+
     .section-one {
         width: auto;
     }
@@ -183,6 +187,7 @@ footer {
     .outro {
         height: auto;
     }
+
 
     .outro .contact,
     .about {
